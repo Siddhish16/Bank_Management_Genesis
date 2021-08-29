@@ -1,4 +1,4 @@
-            # BANK MANAGEMENT SYSTEM FOR GENESIS 
+# BANK MANAGEMENT SYSTEM For Genesis
  The project is based on Finacement Theam. 
  
 ## Description
