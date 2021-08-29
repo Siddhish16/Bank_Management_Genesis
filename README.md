@@ -1,5 +1,5 @@
 # BANK MANAGEMENT SYSTEM For Genesis
- The project is based on Finacement Theam. 
+ The project is based on Financial Theme. 
  
 ## Description
 
